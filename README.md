@@ -1,11 +1,11 @@
-# 🏏 PSL Player Performance Analysis
+#  PSL Player Performance Analysis
 
-## 📊 Project Overview
+##  Project Overview
 This project analyzes player performance in the Pakistan Super League (PSL) using a structured data pipeline and interactive dashboard. The objective is to evaluate batsmen and bowlers using key performance metrics and provide actionable insights.
 
 ---
 
-## ⚙️ Data Pipeline
+##  Data Pipeline
 The project follows a multi-layered data approach:
 
 - **Raw Data** → Original dataset downloaded from Kaggle  
@@ -14,14 +14,14 @@ The project follows a multi-layered data approach:
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - **SQL** → Data cleaning, transformation, and analysis  
 - **Tableau** → Dashboard development and visualization  
 - **Excel/CSV** → Data storage  
 
 ---
 
-## 📌 Key Metrics
+##  Key Metrics
 - Batting Strike Rate  
 - Batting Average  
 - Total Runs  
@@ -30,7 +30,7 @@ The project follows a multi-layered data approach:
 
 ---
 
-## 📈 Dashboard Features
+##  Dashboard Features
 - Player performance comparison (batsmen vs bowlers)  
 - Scatter plots for Strike Rate vs Average  
 - Economy vs Wickets analysis for bowlers  
@@ -38,19 +38,19 @@ The project follows a multi-layered data approach:
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 - Identified top-performing batsmen with high strike rate and consistency  
 - Highlighted bowlers with low economy and strong wicket-taking ability  
 - Observed performance differences across player roles  
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 ![Dashboard](images/dashboard.png)
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 - `data/raw/` → Original dataset  
 - `data/processed/` → Cleaned data  
 - `data/warehouse/` → Final structured data  
@@ -60,7 +60,7 @@ The project follows a multi-layered data approach:
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 - Automate data pipeline using Python  
 - Add match-level and team-level analysis  
 - Deploy dashboard online  
